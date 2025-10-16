@@ -24,5 +24,3 @@ for i in range(1,101):
 progress_bar.empty()
 
 st.button('Re-run')
-
-streamlit run c:/Users/User/OneDrive/Desktop/sem 5/artificial intelligence/code/simple_app.py
